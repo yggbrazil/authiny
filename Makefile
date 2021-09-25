@@ -6,7 +6,7 @@ export
 
 # Variables
 protosFolder=pkg/authiny_grpc/*.proto
-docsFolder=docs/grpc
+docsFolder=docs
 go_cover_file=coverage.out
 
 help:: ## Show this help
